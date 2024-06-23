@@ -28,3 +28,12 @@ gradio path/to/app.py
 
 * [**Iris**](./gradio/iris.py): Iris classifier and data visualizer with Rest API.
 * [**Todos**](./gradio/todos.py): Todo app demonstrating session state and custom CSS.
+
+## Voila
+
+```sh
+# usage
+voila path/to/notebook.ipynb
+```
+
+* [**Draw**](./voila/draw.ipynb): Drawing app made with [widgets](https://github.com/jupyter-widgets/ipywidgets) and [canvas](https://github.com/jupyter-widgets-contrib/ipycanvas).
