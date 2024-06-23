@@ -37,3 +37,4 @@ voila path/to/notebook.ipynb
 ```
 
 * [**Draw**](./voila/draw.ipynb): Drawing app made with [widgets](https://github.com/jupyter-widgets/ipywidgets) and [canvas](https://github.com/jupyter-widgets-contrib/ipycanvas).
+* [**XOR**](./voila/xor.ipynb): MLP classifier for the XOR problem.
