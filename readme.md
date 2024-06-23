@@ -11,6 +11,7 @@ Machine learning notebooks.
 * [**Cloudflare**](./notebooks/cloudflare.ipynb): How I set up networking in Colab.
 * [**Scikit-learn**](./notebooks/sklearn.ipynb): A walkthrough of Scikit-learn.
 * [**Weights & Biases**](./notebooks/wandb.ipynb): Experiment tracking on [W&B](https://wandb.ai).
+* [**Widgets**](./notebooks/widgets.ipynb): Overview of building interactive notebooks with [ipywidgets](https://github.com/jupyter-widgets/ipywidgets).
 
 ### Datasets
 
