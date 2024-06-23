@@ -9,6 +9,7 @@ Machine learning notebooks.
 * [**Activation Functions**](./notebooks/activation_functions.ipynb): Visualizations of neural network activation functions.
 * [**Autograd**](./notebooks/autograd.ipynb): Iris classifier neural network using [Autograd](https://github.com/HIPS/autograd).
 * [**Cloudflare**](./notebooks/cloudflare.ipynb): How I set up networking in Colab.
+* [**Scikit-learn**](./notebooks/sklearn.ipynb): A walkthrough of Scikit-learn.
 
 ### Datasets
 
