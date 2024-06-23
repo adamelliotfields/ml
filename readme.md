@@ -1,6 +1,6 @@
 # `ml`
 
-[**ml**](https://github.com/adamelliotfields/ml) · [ts](https://github.com/adamelliotfields/ts) · [cv](https://github.com/adamelliotfields/cv) · [gan](https://github.com/adamelliotfields/gan) · [nlp](https://github.com/adamelliotfields/nlp) · [llm](https://github.com/adamelliotfields/llm)
+[**ml**](https://github.com/adamelliotfields/ml) · [ts](https://github.com/adamelliotfields/ts) · [cv](https://github.com/adamelliotfields/cv) · [gan](https://github.com/adamelliotfields/gan) · [nlp](https://github.com/adamelliotfields/nlp) · [rl](https://github.com/adamelliotfields/rl) · [llm](https://github.com/adamelliotfields/llm)
 
 Machine learning notebooks.
 
@@ -10,6 +10,7 @@ Machine learning notebooks.
 * [**Autograd**](./notebooks/autograd.ipynb): Iris classifier neural network using [Autograd](https://github.com/HIPS/autograd).
 * [**Cloudflare**](./notebooks/cloudflare.ipynb): How I set up networking in Colab.
 * [**Scikit-learn**](./notebooks/sklearn.ipynb): A walkthrough of Scikit-learn.
+* [**Weights & Biases**](./notebooks/wandb.ipynb): Experiment tracking on [W&B](https://wandb.ai).
 
 ### Datasets
 
