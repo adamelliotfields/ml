@@ -18,3 +18,13 @@ Machine learning notebooks.
 
 * [**California Housing**](./notebooks/california_housing.ipynb): EDA and regression on the [California Housing](https://www.dcc.fc.up.pt/~ltorgo/Regression/cal_housing.html) dataset.
 * [**Wine**](./notebooks/wine.ipynb): EDA and dimensionality reduction with UMAP on the [Wine](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_wine.html) dataset.
+
+## Gradio
+
+```sh
+# usage
+gradio path/to/app.py
+```
+
+* [**Iris**](./gradio/iris.py): Iris classifier and data visualizer with Rest API.
+* [**Todos**](./gradio/todos.py): Todo app demonstrating session state and custom CSS.
